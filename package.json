@@ -1,6 +1,6 @@
 {
     "name": "@mariusandra/query-selector-shadow-dom",
-    "version": "0.7.2-posthog",
+    "version": "0.7.2-posthog.2",
     "description": "use querySelector syntax to search for nodes inside of (nested) shadow roots",
     "main": "src/querySelectorDeep.js",
     "scripts": {
